@@ -6,8 +6,10 @@
         <div class="block two first">
             <h2>Download terlebih dahulu Laravel, saya menggunakan versi 5.3</h2>
             <div class="wrap">
-            pertama gunakan <i>composer</i>, kalau belum instal, silahkan ke situs resminya <a href="https://getcomposer.org/" target="blank">disini</a><br>
-             
+            pertama, sambungkan database di file .env yang ada pada folder project anda<br>
+            gunakan php artisan<br>
+            <i>php artisan make:model Mahasiswa -m</i><br>
+            php artisan yang ada pada laravel langsung membuat file model <i>Mahasiswa</i> dan table migration<br>
             </div>
         </div>
 
