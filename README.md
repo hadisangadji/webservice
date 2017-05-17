@@ -8,7 +8,7 @@
             <div class="wrap">
             pertama, sambungkan database di file .env yang ada pada folder project anda<br>
             gunakan php artisan<br>
-            <i>php artisan make:model Mahasiswa -m</i><br>
+            <i><b>php artisan make:model Mahasiswa -m</b></i><br>
             php artisan yang ada pada laravel langsung membuat file model <i>Mahasiswa</i> dan table migration<br>
             </div>
         </div>
